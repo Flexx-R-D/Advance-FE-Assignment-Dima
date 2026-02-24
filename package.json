@@ -32,7 +32,7 @@
     "@mui/lab": "5.0.0-alpha.160",
     "@mui/material": "^5.16.6",
     "@mui/material-nextjs": "6.4.3",
-    "@mui/x-date-pickers": "^8.19.0",
+    "@mui/x-date-pickers": "^8.27.2",
     "@tanstack/match-sorter-utils": "8.11.3",
     "@tanstack/react-table": "8.21.2",
     "autoprefixer": "10.4.16",
