@@ -31,7 +31,7 @@
     "@mui/icons-material": "^5.16.6",
     "@mui/lab": "5.0.0-alpha.160",
     "@mui/material": "^5.16.6",
-    "@mui/material-nextjs": "6.4.3",
+    "@mui/material-nextjs": "7.3.8",
     "@mui/x-date-pickers": "^8.19.0",
     "@tanstack/match-sorter-utils": "8.11.3",
     "@tanstack/react-table": "8.21.2",
